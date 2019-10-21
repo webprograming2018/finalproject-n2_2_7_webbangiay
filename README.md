@@ -4,7 +4,6 @@ Nhóm : N27
 Thành viên:
 1. Vũ Hồng Anh - B15DCCN047
 2. Mai Thành Công -  B15DCCN076
-3. Vũ Thị Quỳnh - B15DCCN450 
 
 Nội dung
 1. a. Xây dựng web bán hàng với các chức năng dựa trên thực tế
@@ -15,7 +14,6 @@ Nội dung
 STT        Họ tên          Các nội dung thực hiện                                              Đánh giá
 1       Vũ Hồng Anh    Các phần liên quan đến back-end logic của trang web                     80% hoàn thành
 2     Mai Thành Công   Các nội dung liên quan đến thiết kế cơ sở dữ liệu cho trang web         80% hoàn thành
-3     Vũ Thị Quỳnh     Các nội dung liên quan đến giao diện cho trang web                      80% hoàn thành
 
 Các bạn cùng đóng góp ý kiến đưa ra các giải pháp cho các yêu cầu đề ra của trang web.    
 
